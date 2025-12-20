@@ -3,9 +3,13 @@
 ---
 ## Hi there 👋 , I'm Arva Al Ghifari!
 
-### About Me
 Seorang siswa SMA Negeri 3 Surakarta yang suka banget sama kodingan dan saya juga mulai mempelajari dan meningkatkan hal baru tentang itu, contoh cyber security dan masih banyak lagi. Anyway disini saya masih pemula dan butuh banyak bimbingan lagi dari para sesepuh diluar sana jadi mohon bimbingannya dong puh sepuh.
 
-- 📫 How to reach me: https://github.com/arpaawasheree
-- ⚡ Fun fact: suka martabak telor
-- ⏭️ Favorite song: The Fate of Ophelia - Taylor Swift
+### About Me
+- ⚡ Fun Fact: suka martabak telor
+- 📚 Currently Learning: Cyber Security
+- ⏭️ Favorite Song: The Fate of Ophelia - Taylor Swift
+
+### 📫 How to reach me
+- Github: arpaawasheree
+- Discord: callmearpaa
