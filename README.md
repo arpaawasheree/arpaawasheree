@@ -13,3 +13,4 @@ Seorang siswa SMA Negeri 3 Surakarta yang suka banget sama kodingan dan saya jug
 ### 📫 How to reach me
 - Github: arpaawasheree
 - Discord: callmearpaa
+- Instagram: arpaagoestougm
