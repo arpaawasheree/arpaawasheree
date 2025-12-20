@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=Hello,+World!)](https://git.io/typing-svg)
 
-<!--
-**arpaawasheree/arpaawasheree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 , I'm Arva Al Ghifari!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+Seorang siswa SMA Negeri 3 Surakarta yang suka banget sama kodingan dan saya juga mulai mempelajari dan meningkatkan hal baru tentang itu, contoh cyber security dan masih banyak lagi. Main game apa bang? ya mungkin valorant ama delta force doang sih tapi jarang juga mainnya heheh. anyway disini saya masih pemula dan butuh banyak bimbingan lagi dari para sesepuh diluar sana jadi mohon bimbingannya dong puh sepuh
+
+- 📫 How to reach me: https://github.com/arpaawasheree
+- 😄 Pronouns: arpaa
+- ⚡ Fun fact: suka mi ayam
+---
