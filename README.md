@@ -8,4 +8,3 @@ Seorang siswa SMA Negeri 3 Surakarta yang suka banget sama kodingan dan saya jug
 
 - 📫 How to reach me: https://github.com/arpaawasheree
 - ⚡ Fun fact: suka martabak telor
-- 
