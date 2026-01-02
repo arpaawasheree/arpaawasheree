@@ -8,7 +8,7 @@ A student of SMA Negeri 3 Surakarta who really likes coding and I also started t
 ### About Me
 - ⚡ Fun Fact: Love Matcha
 - 📚 Currently Learning: Cyber Security
-- ⏭️ Favorite Song: The Fate of Ophelia - Taylor Swift
+- ⏭️ Favorite Song: her (feat. Annika Wells) - JVKE
 
 ### 📫 How to reach me
 - Github: arpaawasheree
