@@ -6,11 +6,12 @@
 A student of SMA Negeri 3 Surakarta who really likes coding and I also started to learn and improve new things about it, such as cybersecurity and much more
 
 ### About Me
-- ⚡ Fun Fact: Love Matcha
+- ⚡ Fun Fact: Love Indomie Rendang
 - 📚 Currently Learning: Cyber Security
 - ⏭️ Favorite Song: her (feat. Annika Wells) - JVKE
 
 ### 📫 How to reach me
 - Github: arpaawasheree
 - Discord: callmearpaa
-- Instagram: arpaagoestougm
+- Instagram: arpaawasheree
+- Threads: arpaanakmeletop
