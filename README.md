@@ -14,4 +14,4 @@ A student of SMA Negeri 3 Surakarta who really likes coding and I also started t
 - Github: arpaawasheree
 - Discord: callmearpaa
 - Instagram: arpaawasheree
-- Threads: arpaanakmeletop
+- Threads: arpanakmeletop
