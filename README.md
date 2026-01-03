@@ -7,10 +7,10 @@ A student of SMA Negeri 3 Surakarta who really likes coding and I also started t
 
 ### About Me
 - ⚡ Fun Fact: Love Indomie Rendang
-- 📚 Currently Learning: Cyber Security
+- 📚 Currently Learning: Cyber Security and High School Subject Matter
 - ⏭️ Favorite Song: her (feat. Annika Wells) - JVKE
 
-### 📫 How to reach me
+### How to reach me
 - Github: arpaawasheree
 - Discord: callmearpaa
 - Instagram: arpaawasheree
